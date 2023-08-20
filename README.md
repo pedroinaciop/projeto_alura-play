@@ -1,7 +1,7 @@
 # AluraPlay
 ### 🚧 Projeto em construção... 🚧
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pedroinaciop/Pedro-s-Streaming/blob/main/LICENSE) 
+[![NPM](https://github.com/pedroinaciop/AluraPlay/blob/main/LICENSE) 
 
 # Sobre o projeto
 
