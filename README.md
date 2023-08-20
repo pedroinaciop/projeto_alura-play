@@ -6,7 +6,7 @@
 
 https://pedroinaciop.github.io/AluraPlay/
 
-O AluraPlay é um projeto em HTML, CSS para aperfeiçoar minhas habilidades com essas tecnologias, principalmente a parte de disposição, semântica, media queries e display flex.
+O AluraPlay é um projeto em HTML e CSS para aperfeiçoar minhas habilidades com essas tecnologias, principalmente a parte de disposição, semântica, media queries e display flex.
 
 ## Layout Web
 
