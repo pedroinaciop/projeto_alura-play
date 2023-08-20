@@ -6,7 +6,7 @@
 
 https://pedroinaciop.github.io/AluraPlay/
 
-Esse de stremaing é um projeto básico de HTML, CSS e JS para aperfeiçoar minhas habilidades com essas tecnologias, principalmente a parte de disposição, semântica, media queries e display. Projeto está em construção.
+O AluraPlay é um projeto em HTML, CSS para aperfeiçoar minhas habilidades com essas tecnologias, principalmente a parte de disposição, semântica, media queries e display flex.
 
 ## Layout Web
 
@@ -17,10 +17,10 @@ Esse de stremaing é um projeto básico de HTML, CSS e JS para aperfeiçoar minh
 ![Mobile 1](https://github.com/pedroinaciop/AluraPlay/blob/main/img/alura-play-mobile.png)
 
 # Tecnologias utilizadas
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 # Autor
 
-Pedro Inácio Penha dos Santos
+Pedro Inácio Penha dos Santos - Curso Alura
 
 https://www.linkedin.com/in/pedroinaciop/
